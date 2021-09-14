@@ -1,0 +1,24 @@
+#SearchButton {
+    width: 200px;
+    height: 50px;
+    border-radius: 100px;
+    border-color:cyan;
+    color: cyan;
+    font-size: 20px;
+}
+
+#plusButton {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: #00d1b2;
+    color: white;
+    border-color:white;
+    font-size: 25px;
+}
+
+#Account {
+    color: white;
+    background-color: #2b78e4;
+    box-shadow: 5px 5px 5px black;
+}
