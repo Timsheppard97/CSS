@@ -1,0 +1,43 @@
+.nav {
+    height: 50px;
+    background-color: gray;
+    display: flex;
+    margin: 0px auto;
+    border: 1px solid black;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.nav-title{
+    display: flex;
+    color: white;
+    
+}
+
+.nav-links {
+    display: flex;
+    margin-left: auto;
+    
+}
+
+ul {
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul li {
+    list-style-type: none;
+    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.btn {
+    background-color: aqua;
+    color: white
+}
